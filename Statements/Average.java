@@ -1,4 +1,4 @@
-package com.example;
+package Statements;
 
 public class Average {
     public static void main(String[] args){
