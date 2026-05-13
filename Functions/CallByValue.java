@@ -8,7 +8,5 @@ public class CallByValue {
         int num = 10;
         number(num);
         System.out.println(num);
-
-
     }
 }
