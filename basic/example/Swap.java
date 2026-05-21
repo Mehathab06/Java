@@ -1,4 +1,4 @@
-package com.example;
+package basic.example;
 
 public class Swap {
     public static void main(String[] args){
